@@ -1,0 +1,26 @@
+body {
+    margin: 75px;
+    text-align: center;
+    background-color: #868686;
+    padding: 50%, 50%;
+    border-style: double;
+}
+
+h1 {
+    color:#95b7ff;
+    font-size: 50px;
+}
+
+.name {
+    padding: 20%, 20%;
+}
+
+.pic {
+  
+}
+p {
+    font-family: sans-serif;
+    width: 75%;
+    display: inline-block;
+    font-size: 20px;
+}
